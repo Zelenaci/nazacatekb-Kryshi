@@ -2,7 +2,7 @@
 
 ## Obrázky
 
-Vytvořte program který vytiskne na tyto obrázky o zadaném počtu řádků:
+Vytvořte program který vytiskne na tyto obrázky o **zadaném počtu řádků**:
 
     ****
     ***
